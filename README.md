@@ -1,2 +1,2 @@
-# Data-Analysis-bike-projrct
+# Data-Analysis-bike-project
 Bike Sales Dashboard
